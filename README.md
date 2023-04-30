@@ -13,7 +13,7 @@ Download the following files to help you get started:
 
 https://static.bc-edx.com/data/dl-1-2/m2/lms/starter/Starter_Code.zip
 
-### Instructions
+# Instructions
 Create a script that loops through all the stocks for one year and outputs the following information:
 
 * The ticker symbol
