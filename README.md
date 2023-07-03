@@ -1,5 +1,5 @@
 # Instructions
-Download the following files to help you get started:
+Download the following files to get started:
 
 https://static.bc-edx.com/data/dl-1-2/m2/lms/starter/Starter_Code.zip
 
